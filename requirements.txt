@@ -1,0 +1,9 @@
+ultralytics==8.4.21
+opencv-python==4.10.0.84
+streamlit==1.42.0
+geocoder==1.38.1
+torch==2.10.0
+torchvision==0.20.0
+numpy==1.26.4
+Pillow==10.4.0
+requests==2.32.3
