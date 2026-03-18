@@ -227,6 +227,6 @@ MIT License. Free to use, modify, and distribute.
 
 ---
 
-## Author
+
 
 Built using [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) and [Streamlit](https://streamlit.io).
